@@ -1,0 +1,4 @@
+interface:
+  display_name: "客户沟通准备与咨询参谋"
+  short_description: "覆盖售前、交付与反馈，依据合同判断边界，兼顾客户关系并生成沟通话术与推进建议"
+  default_prompt: "请用 $consulting-client-advisor 根据本次客户原话和附件，提供内部沟通策略、对客话术及下一步待确认事项。"
